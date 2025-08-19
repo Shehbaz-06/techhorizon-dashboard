@@ -7,7 +7,7 @@ import os
 st.set_page_config(page_title="📊 Sales Analytics Dashboard", layout="wide")
 st.title("📊 Sales Analytics Dashboard")
 st.write("Interactive dashboard for sales KPIs")
-st.write("This is task 1 of data analytics by tech-horizon")
+st.write("This is task 1 of data analytics a sales analytical dashboard")
 
 # --- 2. Upload a sales file ---
 uploaded_file = st.file_uploader(
