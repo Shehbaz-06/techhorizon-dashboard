@@ -17,3 +17,5 @@ used to show graphical representation of data.
 ```bash
 pip install -r requirements.txt
 streamlit run sales-dashboard.py
+
+```
