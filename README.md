@@ -13,6 +13,14 @@ used to show graphical representation of data.
 - Interactive charts
 - Export data reports
 
+## How to Run from the Demo Directly
+```bash
+Download the csv file attached to this repositry
+use it in the demo to see results.
+
+```
+
+
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
