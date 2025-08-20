@@ -9,7 +9,7 @@ st.title("📊 Sales Analytics Dashboard")
 st.write("Interactive dashboard for sales KPIs")
 st.write("This is task 1 of data analytics a sales analytical dashboard")
 
-# - Upload a sales file ---
+# Upload a sales file
 uploaded_file = st.file_uploader(
     "Upload your sales data (CSV or Excel)", type=["csv", "xlsx"]
 )
