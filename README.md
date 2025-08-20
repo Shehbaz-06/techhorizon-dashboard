@@ -2,8 +2,8 @@
 
 **Live Demo:** 👉 https://techhorizon-dashboard-yuf8htbzviwjbrgbk9ybss.streamlit.app/
 
-A Streamlit web application for analyzing sales data. Built for the TechHorizon internship.
-Pandas are used for data manipulation, streamlit is used to display the project, and plotly is
+A Streamlit web application for analyzing sales data, this was made for the 2025 TechHorizon internship.
+Pandas are used for data handling, streamlit is used to display the project, and plotly is
 used to show graphical representation of data.
 
 ## Features
